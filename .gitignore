@@ -50,6 +50,7 @@
 *.su
 *.idb
 *.pdb
+*.prj
 
 # Kernel Module Compile Results
 *.mod*
